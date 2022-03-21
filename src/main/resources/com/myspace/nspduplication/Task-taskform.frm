@@ -1,0 +1,1 @@
+{"id":"93945f06-9687-42d9-8ec3-76f399183d42","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"nsp_reg.DuplicateCheck","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}

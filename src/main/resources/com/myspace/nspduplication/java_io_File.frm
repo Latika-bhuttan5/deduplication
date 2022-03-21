@@ -1,0 +1,1 @@
+{"id":"fd766398-ebf4-4f8f-87c2-f3d2d1a0908c","name":"java_io_File","model":{"source":"EXTERNAL","className":"java.io.File","name":"File","properties":[],"formModelType":"org.kie.workbench.common.forms.data.modeller.model.DataObjectFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
